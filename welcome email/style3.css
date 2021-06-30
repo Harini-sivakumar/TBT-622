@@ -1,0 +1,440 @@
+.Rectangle-11 {
+    width: 600px;
+    height: 220px;
+    margin: 0 0 44px;
+    padding: 30px 74px 38px;
+    opacity: 0.58;
+    background-color: var(--medium-blue);
+  }
+
+
+
+.Group-21 {
+    width: 600px;
+    height: 220px;
+    margin: 0 0 20px 0px;
+    padding: 30px 50px 38px;
+    object-fit: contain;
+    align-items: left;
+  }
+
+  .Group-24 {
+    width: 141px;
+    height: 49px;
+    margin: 0 0 195px -422px;
+    object-fit: contain;
+  }
+
+  .Welcome-to{
+    width: 452px;
+    height: 83px;
+    margin: -190px 125px 70px;
+    font-family:Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .Dear-John {
+    width: 120px;
+    height: 30px;
+    margin: 44px 170px 25px 70px;
+    font-family: Muli;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+
+  .Greetings-from-NOVA {
+    width: 183px;
+    height: 24px;
+    margin: 19px 84px 21px 70px;
+    font-family: Muli;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+
+  .We-are-super{
+    width: 450px;
+    height: 49px;
+    margin: 21px 101px 28px 70px;
+    font-family: Muli;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+
+  .NOVA-Cosmetic{
+    width: 428px;
+    height: 105px;
+    margin: 28px 123px 41px 70px;
+    font-family: Muli;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+
+  .Rectangle-2 {
+    width: 190px;
+    height: 150px;
+    margin: 41px 28px 18px 49px;
+    padding: 20px 20px 20px 30px;
+    border-radius: 15px;
+    border: solid 1px #cfcfcf;
+    background-color: #ffffff;
+  }
+
+  .appointment {
+    width: 51.5px;
+    height: 49px;
+    margin: 0 60px 12px 53.8px;
+    object-fit: contain;
+  }
+
+  .Book {
+    width: 40px;
+    height: 23px;
+    margin: 0 60px 5px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color:#2e6bb1;
+  }
+  .Book-your {
+    width: 160px;
+    height: 34px;
+    margin: 5px 0 0;
+    font-family: Muli;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #292929;
+  }
+
+  .Rectangle-3 {
+    width: 180px;
+    height: 150px;
+    margin: -210px 80px 10px 310px;
+    padding: 20px 25px 20px 30px;
+    border-radius: 15px;
+    border: solid 1px #cfcfcf;
+    background-color: #ffffff;
+  }
+  .doctor-1 {
+    width: 44.1px;
+    height: 50px;
+    margin: 0 60px 15px 60px;
+    object-fit: contain;
+  }
+  .Consult {
+    width: 64px;
+    height: 23px;
+    margin: 0px 50px 5px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--medium-blue);
+  }
+  .Our-solution {
+    width: 142px;
+    height: 52px;
+    margin: 5px 10px 0;
+    font-family: Muli;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #292929;
+  }
+
+  .Rectangle-4 {
+    width: 190px;
+    height: 160px;
+    margin: 30px 10px 18px 49px;
+    padding: 20px 20px 20px 30px;
+    border-radius: 15px;
+    border: solid 1px #cfcfcf;
+    background-color: #ffffff;
+  }
+  .medical-record {
+    width: 50.9px;
+    height: 41.4px;
+    margin: 0 56.5px 13.9px;
+    object-fit: contain;
+  }
+  .Digital-Records {
+    width: 124px;
+    height: 23px;
+    margin: 0 20px 8px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--medium-blue);
+  }
+  .All-your-medical {
+    width: 164px;
+    height: 70px;
+    margin: 8px 0 0;
+    font-family: Muli;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #292929;
+  }
+
+  .Rectangle-5 {
+    width: 180px;
+    height: 140px;
+    margin: -220px 100px 10px 310px;
+    padding: 30px 15px 30px 45px;
+    border-radius: 15px;
+    border: solid 1px #cfcfcf;
+    background-color: #ffffff;
+  }
+  .chat-1 {
+    width: 48.3px;
+    height: 45.3px;
+    margin: 0 47.8px 10px 47.8px;
+    object-fit: contain;
+  }
+  .Ask-a-Doctor {
+    width: 104px;
+    height: 23px;
+    margin: 0 20px 8px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--medium-blue);
+  }
+  .Any-questions {
+    width: 144px;
+    height: 70px;
+    margin: 8px 0 0;
+    font-family: Muli;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #292929;
+  }
+
+  .Do-consider {
+    width: 437px;
+    height: 49px;
+    margin: 43px 114px 25px 49px;
+    font-family: Muli;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+
+  .phone-call {
+    width: 19.1px;
+    height: 19.1px;
+    margin: 26px 16.9px 14.8px 51px;
+    object-fit: contain;
+  }
+
+  .number{
+    width: 229px;
+    height: 19px;
+    margin: -53px 1px 16px 100px;
+    font-family: Muli;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+
+  .email {
+    width: 22px;
+    height: 16.2px;
+    margin: 10px 20px 14.8px 25px;
+    object-fit: contain;
+  }
+  .mailid {
+    width: 139px;
+    height: 19px;
+    margin: -28px 1px 16px 100px;
+    font-family: Muli;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+  .Path-3 {
+    width: 12.6px;
+    height: 21px;
+    margin: 10px 20px 14.8px 28px;
+    object-fit: contain;
+    background-color: var(--medium-blue);
+  }
+  .Open-app {
+    width: 206px;
+    height: 19px;
+    margin: -28px 1px 16px 100px;
+    font-family: Muli;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+  .world {
+    width: 21px;
+    height: 21px;
+    margin: 10px 20px 14.8px 26px;
+    object-fit: contain;
+  }
+  .website{
+    width: 364px;
+    height: 19px;
+    margin: -28px 1px 16px 100px;
+    font-family: Muli;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+  }
+  .Rectangle-6 {
+    width: 300px;
+    height: 100px;
+    margin: 52px 0 0;
+    padding: 38px 190px 62px;
+    background-color: #2e6bb1;
+  }
+  .Wish {
+    width: 220px;
+    height: 32px;
+    margin: 90px 180px 0;
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 50px;
+  }
+
+  .Rectangle-7 {
+    width: 190px;
+    height: 38px;
+    margin:-120px -90px 28px 150px;
+    padding: 9.5px 22px 9.5px 17.3px;
+    border-radius: 7px;
+    background-color: #ffffff;
+    margin-left: 50px;
+  }
+
+  .facebook-1 {
+    width: 16px;
+    height: 32px;
+    margin: 2px 20px 5px 5px;
+    object-fit: contain;
+    background-color: #fafbfd;
+  }
+  .Follow-us {
+    width: 140px;
+    height: 19px;
+    margin: -70px 25px 25px 240px;
+    font-family: Muli;
+    font-size: 14.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292929;
+    margin-left: 100px;
+  }
+  
+
+  .container{
+    align-items: center;
+    display:block;
+    justify-content: center;
+  }
